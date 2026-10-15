@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Elimination",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 60,
+  "speed": 0.75,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6ca8c920-f403-4cec-9272-960436d026d9"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "1587af45-3c45-4ae9-875b-9355f766495a"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "29a208ff-dc0b-4f1a-a7f3-50c732484cba"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "209a119e-b182-46a8-9467-d38ea20d8023"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5bebd30c-d440-4bad-8640-0ede3a3e79e9"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "337a5f3e-14f4-42ee-89b7-2d744050a850"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Elimination_Line",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f0b0ed7a-bf50-4383-be7f-7fa931ece3c5"
+            }
+          },
+          {
+            "frame": 0.38333333333333336,
+            "value": {
+              "__uuid__": "f0b0ed7a-bf50-4383-be7f-7fa931ece3c5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
